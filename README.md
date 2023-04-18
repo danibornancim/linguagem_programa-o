@@ -1,2 +1,2 @@
-# linguagem_programa-o
-repositório q vai ser usado nas aulas do Jeimeso - 3IA
+# linguagem_programação
+repositório utilizado nas aulas de programação - 3IA
